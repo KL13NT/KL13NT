@@ -14,14 +14,14 @@ When I'm not coding some frontend stuff I'm usually found experimenting, mentori
 
 ### To infinity and beyond
 
-- 🔭 I’m currently working on a social network to help people with anxiety
+- 🔭 I’m currently planning to work on some interesting ideas!
 - 🌱 I’m currently learning Computer Science at Cairo University, and exploring mental health for developers
-- 👯 I’m looking to collaborate on projects built with frontend technologies such as JavaScript!
+- 👯 I’m looking to collaborate on projects built with frontend technologies such as JavaScript and TypeScript!
 - 💬 Ask me about anything! 
 - 😄 Pronouns: He/Him
 
 [Valarium]: https://valarium.netlify.app/
-[The Weekly Noob]: https://theweeklynoob.netlify.app/
+[The Weekly Noob Podcast]: https://theweeklynoob.netlify.app/
 [email]: mailto:nabil.tharwat@outlook.com
 [twitter]: https://twitter.com/Nabil_Tharwat16
 [linkedin]: https://www.linkedin.com/in/i-am-nabil
