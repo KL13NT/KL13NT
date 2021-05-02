@@ -2,7 +2,7 @@
 
 I'm Nabil Tharwat, a software engineer, content creator, and mentor based in Cairo, Egypt. I started coding when I was 12 with VB, and now living in JS land. I love contributing to open source. Accessibility and performance are part of my eternal quest.
 
-I run a YouTube [channel] and a weekly podcast called [The Weekly Noob]. I also founded an online community called [Valarium], make sure to check them out!
+I run a YouTube [channel] and a weekly [podcast][The Weekly Noob]. I also founded an online community, [Valarium], make sure to check them out!
 
 ### Get in touch
 
