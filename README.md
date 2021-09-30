@@ -23,7 +23,7 @@ When I'm not coding some frontend stuff I'm usually found experimenting, mentori
 [Valarium]: https://valarium.netlify.app/
 [The Weekly Noob]: https://theweeklynoob.netlify.app/
 [email]: mailto:nabil.tharwat@outlook.com
-[twitter]: https://twitter.com/Nabil_Tharwat16
+[twitter]: https://twitter.com/kl13nt
 [linkedin]: https://www.linkedin.com/in/i-am-nabil
 [github]: https://github.com/KL13NT
 [channel]: https://www.youtube.com/c/NabilTharwat_
