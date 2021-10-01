@@ -20,6 +20,8 @@ When I'm not coding some frontend stuff I'm usually found experimenting, mentori
 - 💬 Ask me about anything! 
 - 😄 Pronouns: He/Him
 
+![y u m](https://media.discordapp.net/attachments/587281550983430254/893593076612878366/depositphotos_182992778-stock-photo-confectioner.png?)
+
 [Valarium]: https://valarium.netlify.app/
 [The Weekly Noob]: https://theweeklynoob.netlify.app/
 [email]: mailto:nabil.tharwat@outlook.com
